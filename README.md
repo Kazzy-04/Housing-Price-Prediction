@@ -123,7 +123,7 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 ### ▶️ Running the Project
 
 ```bash
-python multimodal_housing_model.py
+python Task-3(Housing Prediction).py
 ```
 
 ---
